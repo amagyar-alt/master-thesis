@@ -27,4 +27,4 @@
 
 If using this data, please cite:
 
-> IEA & CMCC (2023). Weather for Energy Tracker. International Energy Agency. https://www.iea.org/data-and-statistics/data-tools/weather-for-energy-tracker
+> IEA & CMCC (2025). Weather for Energy Tracker. International Energy Agency. https://www.iea.org/data-and-statistics/data-tools/weather-for-energy-tracker
